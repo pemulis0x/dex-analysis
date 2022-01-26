@@ -1,5 +1,5 @@
-# lifeguard
-eth pool analytics WIP
+# dex-analysis
+liquidity pool analytics WIP
 
 # installation, usage:
 1. run `pip install -r requirements.txt` in ur terminal
